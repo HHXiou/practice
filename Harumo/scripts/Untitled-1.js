@@ -1,0 +1,1 @@
+<marquee onMouseOver="this.stop()" onMouseOut="this.start()">這裡放要跑的文字或圖片</marquee>
